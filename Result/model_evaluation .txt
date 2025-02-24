@@ -1,0 +1,12 @@
+
+🚴‍♂️ Bike Sharing Model Evaluation
+
+📌 Root Mean Squared Error (RMSE): 112.33
+📌 R-Squared Score (R²): 0.61
+
+🔥 Feature Importance (Top Factors):
+1. hr (Hour) -  Most important factor
+2. atemp (Feels-like Temperature) - Strong correlation with bike rentals
+3. temp (Actual Temperature) - Affects ridership behavior
+
+✅ Model trained using Random Forest Regressor in PySpark.
